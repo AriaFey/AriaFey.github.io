@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gugi&family=Viga&display=swap');
 
 h1 {
     text-align: center;
@@ -10,4 +10,8 @@ p {
 	text-align: left;
 	font-family: "Viga", sans-serif;
 	font-weight: normal;
+}
+
+.title {
+	text-align:
 }
