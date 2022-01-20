@@ -6,3 +6,9 @@ h1 {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
 }
+
+p {
+	text-align: left;
+	font family: "Viga", sans-serif;
+	font-weight: normal;
+}
